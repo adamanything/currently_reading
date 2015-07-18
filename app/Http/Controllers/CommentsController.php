@@ -105,6 +105,6 @@ class CommentsController extends Controller
      */
     public function destroy($id)
     {
-        //
+        //testing git
     }
 }
